@@ -1,2 +1,2 @@
 # hello-world
-Pierwsze kroki
+First steps
